@@ -1,4 +1,5 @@
 # Twitter bot
+Using [npm/twit](https://www.npmjs.com/package/twit)
 
 > secret.js
 
